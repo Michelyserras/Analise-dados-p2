@@ -2,13 +2,6 @@
 
 Michely Serras Santos
 
-## Como rodar o projeto
-
-### Pré-requisitos
-
-- Python 3.7 ou superior
-- Jupyter Notebook ou Jupyter Lab
-
 ### Instalação
 
 1. Clone o repositório
